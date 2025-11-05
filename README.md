@@ -1,4 +1,4 @@
-<h1 align="center">Hello</h1>
+<h1 align="center">Hello 👋 What's Up </h1>
 
 ###
 
@@ -9,13 +9,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" height="60" alt="storybook logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" height="60" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
