@@ -11,17 +11,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" height="60" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=15" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=15" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" height="60" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=15" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
